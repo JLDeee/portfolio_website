@@ -1,1 +1,8 @@
-import './index.css';
+
+function starter(){
+    return (
+        <ul>
+        <li><Link to={'/'}>Home</Link></li>
+        </ul>
+    )
+}

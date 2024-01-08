@@ -1,14 +1,9 @@
 import { Link } from 'react-router-dom';
 
-function About() {
+function Home() {
     return(
-    <main className='container'>
-    <section className='aboutPage'>
-        <header>
-            <h1>Welcome to Gamer's Guild</h1>
-        </header>
-    </section>
-    </main>);
+        <h1>Welcome to my portfolio</h1>
+    )
 }
 
-export default About;
+export default Home
