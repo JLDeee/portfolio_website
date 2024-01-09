@@ -11,7 +11,7 @@ body, html {
     font-family: 'Raleway', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-image: url('./images/backgroundWhiteLines.jpg');
+    background-image: url("images/backgroundWhiteLines.jpg");
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
